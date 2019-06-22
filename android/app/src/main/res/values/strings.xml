@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Test</string>
+    <string name="app_operation">Digite operacion Ej: 2+2+4*5</string>
+    <string name="app_make_operation">Aceptar</string>
+    <string name="app_operation_empty">Debe digitar la operaciòn</string>
+    <string name="app_operation_result">El resultado de la operaciòn fue</string>
+    <string name="app_operation_fail">No se puede realizar dicha operaciòn</string>
+    <string name="app_operation_multiple">Es multiplo de: </string>
+</resources>

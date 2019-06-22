@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "RootViewController.viewDidLoad():RootViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "Double = exp.expressionValue(with: nil, context: nil) as! Double">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
